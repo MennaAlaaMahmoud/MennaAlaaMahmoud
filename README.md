@@ -3,9 +3,11 @@
 <img align="right" alt="Coding" width="50%" src="https://c.tenor.com/BJ-9w-MUVCMAAAAC/tenor.gif">
 
 
-- 🌱 I’m currently learning **C#,OOP,DataStructures,Algorithms**
+- 🌱 I’m currently learning **C#**
 
 - 📫 How to reach me **menaalaa232203@gmail.com**
+- 💬 Ask me about
+  **C#,OOP,DataStructures,Algorithms**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
