@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Menna Tullah Alaa</h1>
 <h3 align="center">A passionate Backend developer from Egypt</h3>
 <img align="right" alt="Coding" width="50%" src="https://c.tenor.com/BJ-9w-MUVCMAAAAC/tenor.gif">
-c.tenor.com
+
 
 - 🌱 I’m currently learning **C#,OOP,DataStructures,Algorithms**
 
