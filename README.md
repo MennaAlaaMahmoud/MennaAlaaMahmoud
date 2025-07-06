@@ -1,15 +1,15 @@
-<img align="right" alt="Coding" width="50%" src="https://c.tenor.com/BJ-9w-MUVCMAAAAC/tenor.gif">
-c.tenor.com
 <h1 align="center">Hi 👋, I'm Menna Tullah Alaa</h1>
 <h3 align="center">A passionate Backend developer from Egypt</h3>
+<img align="right" alt="Coding" width="50%" src="https://c.tenor.com/BJ-9w-MUVCMAAAAC/tenor.gif">
+c.tenor.com
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **C#,OOP,DataStructures,Algorithms**
 
 - 📫 How to reach me **menaalaa232203@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/‏menna tullah alaa‏" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="‏menna tullah alaa‏" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/menna-tullah-alaa-367437269/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="‏menna tullah alaa‏" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
